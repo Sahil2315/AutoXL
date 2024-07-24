@@ -9,18 +9,29 @@
 ### I will be sharing some screenshots from the working app as well as the File Structures used for this Project, in this Repository.
 
 <hr>
-<div>
-<h3 align="center">File Structure for AutoXL Project</h3>
 <div align="center">
-    <h4>File Structure for AutoXL - Frontend Program </h4>
-    <img src="Screenshots/AutoXL Frontend File Structure.png" alt="Frontend File Structure"/>
-</div>
-<div align="center">
-    <h4>File Structure for AutoXL - Admin - Frontend Program </h4>
-    <img src="Screenshots/AutoXL Admin Frontend File Structure.png" alt="Admin File Structure"/>
-</div>
-<div align="center">
-    <h4>File Structure for AutoXL - Backend Program </h4>
-    <img src="Screenshots/AutoXL Backend File Structure.png" alt="Backend File Structure"/>
-</div>
+<h3 align="center">File Structures for AutoXL Project</h3>
+
+<table>
+<tr>
+<th>For Frontend</th><th>For Frontend - Admin</th><th>For Backend</th>
+</tr>
+<tr>
+    <td>
+        <div align="center">
+            <img src="Screenshots/AutoXL Frontend File Structure.png" alt="Frontend File Structure"/>
+        </div>
+    </td>
+    <td>
+        <div align="center">
+            <img src="Screenshots/AutoXL Admin Frontend File Structure.png" alt="Admin File Structure"/>
+        </div>
+    </td>
+    <td>
+        <div align="center">
+            <img src="Screenshots/AutoXL Backend File Structure.png" alt="Backend File Structure"/>
+        </div>
+    </td>
+</tr>
+</table>
 </div>
