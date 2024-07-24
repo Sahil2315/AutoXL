@@ -10,16 +10,16 @@
 
 <hr>
 <div>
-<h3 style="display: flex; flex-direction: column; align-items: center; justify-content: center;">File Structure for AutoXL Project</h3>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<h3 align="center">File Structure for AutoXL Project</h3>
+<div align="center">
     <h4>File Structure for AutoXL - Frontend Program </h4>
     <img src="Screenshots/AutoXL Frontend File Structure.png" alt="Frontend File Structure"/>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center">
     <h4>File Structure for AutoXL - Admin - Frontend Program </h4>
     <img src="Screenshots/AutoXL Admin Frontend File Structure.png" alt="Admin File Structure"/>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center">
     <h4>File Structure for AutoXL - Backend Program </h4>
     <img src="Screenshots/AutoXL Backend File Structure.png" alt="Backend File Structure"/>
 </div>
