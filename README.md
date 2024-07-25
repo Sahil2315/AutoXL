@@ -6,7 +6,7 @@
 
 ### I participated in this freelance project as the Solo Fullstack Developer and take full responsibility of everything related to its development.
 
-### I will be sharing some screenshots from the working app as well as the File Structures used for this Project, in this Repository.
+### I will be sharing some screenshots from the working app as well as the File Structures from the Project, in this Repository.
 
 <hr>
 <div align="center">
