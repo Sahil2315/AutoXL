@@ -19,7 +19,7 @@
 <tr>
     <td>
         <div align="center">
-            <img src="Diagrams/Use Case.svg" alt="Frontend File Structure"/>
+            <img src="Diagrams/Use-Case.svg" alt="Frontend File Structure"/>
         </div>
     </td>
     <td>
