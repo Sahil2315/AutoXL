@@ -10,6 +10,30 @@
 
 <hr>
 <div align="center">
+<h3 align="center">Life Cycle Models for AutoXL</h3>
+
+<table>
+<tr>
+<th>Use Case Diagram</th><th>Sequence Diagram</th>
+</tr>
+<tr>
+    <td>
+        <div align="center">
+            <img src="Diagrams/Use Case.svg" alt="Frontend File Structure"/>
+        </div>
+    </td>
+    <td>
+        <div align="center">
+            <img src="Diagrams/Sequence.svg" alt="Admin File Structure"/>
+        </div>
+    </td>
+</tr>
+</table>
+</div>
+<hr>
+
+<hr>
+<div align="center">
 <h3 align="center">File Structures for AutoXL Project</h3>
 
 <table>
